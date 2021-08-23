@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+<color name="colorPrimary">#ffffff</color>
+<color name="colorPrimaryDark">#BBBBBB</color>
+<color name="colorAccent">#109E4B</color>
+<color name="white">#ffffff</color>
+<color name="black">#000000</color>
+<color name="blackOverlay">#999898</color>
+<color name="viewColor">#E4E4E4</color>
+<color name="transparent">#00000000</color>
+<color name="colorMain">#F15A22</color>
+<color name="orange">#FF8C00</color>
+<color name="blue">#0000FF</color>
+<color name="red_calling">#d15d0d</color>
+
+<color name="colorSecondary">#F36D3C</color>
+<color name="colorDashboard">#D845C6E7</color>
+
+<color name="text_color_dark">#424242</color>
+<color name="text_color_light">#757575</color>
+
+<color name="icon5">#3F99CE</color>
+<color name="viewBackground">#E2E2E2</color>
+
+//For game
+
+<color name="green_overlay">#B34CAF50</color>
+<color name="red_overlay">#B3F44336</color>
+
+<color name="green">#E64CAF50</color>
+<color name="red">#E6F44336</color>
+
+<color name="red_pure">#FF1100</color>
+<color name="green_pure">#49C34E</color>
+
+<color name="gradStart">#FF9D91</color>
+<color name="gradCenter">#FF8599</color>
+<color name="gradEnd">#FF7096</color>
+
+<color name="redOverlay">#BFFFE9DB</color>
+<color name="textColorBrown">#8C715C</color>
+
+<color name="purpleDark">#9A87FF</color>
+<color name="purpleLight">#DFD6FF</color>
+
+<color name="purple">#CCC1B2F7</color>
+<color name="pink">#D9F7C4CE</color>
+
+<color name="pinkDark">#FF75A7</color>
+<color name="pinkLight">#FFE7EC</color>
+
+
+<!--Kotlin-->
+<!-- colors for button style -->
+<color name="gradient_start_color">#4c84ff</color>
+<color name="gradient_end_color">#18a3fe</color>
+
+<!-- colors for tab and screent text -->
+<color name="tab_indicator_gray">#c0c0c0</color>
+<color name="intro_title_color">#000000</color>
+<color name="intro_description_color">#656565</color>
+
+<!-- Color For Post Background -->
+<color name="color_post_bg_one">#E63434</color>
+<color name="color_post_bg_two">#8F2CF9</color>
+<color name="color_post_bg_three">#3FB9A4</color>
+<color name="color_post_bg_four">#FC6A31</color>
+<color name="color_post_bg_five">#FC1587</color>
+<color name="color_post_bg_six">#293042</color>
+<color name="color_post_bg_seven">#3575D3</color>
+
+
+<color name="color_post_black">#000000</color>
+<color name="color_post_desc">#545454</color>
+<color name="color_post_hint">#DBDBDB</color>
+<color name="color_mgs_seen">#A4A4A4</color>
+
+
+</resources>

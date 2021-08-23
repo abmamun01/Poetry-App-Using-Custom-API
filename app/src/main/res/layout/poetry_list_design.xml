@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/colorPrimaryDark">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="30dp"
+        android:text="কার বাঁশি বাজিল?\n
+              - কাজী নজরুল ইসলাম"
+
+        android:padding="6dp"
+        android:textSize="18sp"
+        android:textColor="@color/black"
+        android:id="@+id/textview_poetName"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="30dp"
+        android:textSize="15sp"
+        android:layout_marginTop="10dp"
+        android:textColor="#2A292C"
+        android:text="@string/sample_poet"
+        android:id="@+id/textview_poetData"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="20dp"
+        android:padding="5dp"
+        android:text="2021/12/5"
+        android:gravity="center_vertical|end"
+        android:id="@+id/textview_poetDateandTime"/>
+
+
+    <include layout="@layout/update_delete_layout"/>
+
+</LinearLayout>

@@ -1,0 +1,2 @@
+rootProject.name = "PoetryApp_Using Custom Api"
+include ':app'
